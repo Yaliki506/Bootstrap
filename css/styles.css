@@ -1,0 +1,27 @@
+.titulo{
+    color: green;
+    background-color: black;
+    font-size: 45px;
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+.row{
+    margin-top: 0%;
+}
+
+.container-fluid{
+    display: flex;
+    justify-content: space-evenly !important ;
+    text-align: center;
+}
+
+.table{
+    background-color: brown;
+}
+
+.footer{
+    background-color: blueviolet;
+    margin-bottom: 0px I !important;
+}
+
